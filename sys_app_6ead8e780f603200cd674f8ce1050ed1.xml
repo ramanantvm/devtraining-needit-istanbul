@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu/>
+        <menu display_value="NeedIt">eb221c730f33320091338e8ce1050e07</menu>
         <name>NeedIt</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -23,12 +23,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-23 20:48:29</sys_created_on>
         <sys_id>6ead8e780f603200cd674f8ce1050ed1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-01-23 20:48:29</sys_updated_on>
+        <sys_updated_on>2017-07-13 09:16:43</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role/>
+        <user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
